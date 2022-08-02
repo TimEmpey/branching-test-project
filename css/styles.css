@@ -4,11 +4,11 @@ h1{
 h2 {
   font-style: italic;
   text-align: center;
-  color: teal;
+  color: red;
 }
-p{
-  color:gray;
+p {
+  color:red;
 }
 body{
-  background-color:skyblue;
+  background-color:salmon;
 }
